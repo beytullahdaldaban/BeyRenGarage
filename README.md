@@ -17,4 +17,5 @@ Araç özelliklerinden ikinci el ilan fiyatı ne kadar doğru tahmin edilebilir?
 
 [US Used Cars Dataset](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset) veri setini Kaggle üzerinden indirin. Ham CSV bu depoya dahil değildir. Kaggle lisans etiketi **Data files © Original Authors** olup veri seti açıklamasında akademik kullanım, araştırma ve bireysel denemeler belirtilmektedir.
 
+
 Bu depo şu anda proje önerisini içeriyor. Analiz kodu, deney sonuçları, final raporu ve sunum proje ilerledikçe eklenecektir.
