@@ -6,6 +6,8 @@ FET445 Veri Madenciliği dersi, Güz 2026 final projesi. Beytullah Daldaban ve N
 
 Araç özelliklerinden ikinci el ilan fiyatı ne kadar doğru tahmin edilebilir? İlan fiyatı (USD) için doğrusal regresyon ve regresyon ağacı, eğitim verisinin ortalama fiyatını kullanan temel modelle karşılaştırılacaktır. Öneride VIN bazlı test ayrımı, beş katlı çapraz doğrulama ve MAE ile RMSE üzerinden değerlendirme planlanmıştır.
 
+100.000–200.000 ikinci el ilanıyla çalışmayı planlıyoruz. Temizlik sonrası en az 30 kullanılabilir girdi hedefliyoruz.
+
 ## Proje önerisi
 
 - [Beytullah Daldaban](docs/BeytullahDaldaban_23040101030_BeyRenGarage_FET445_ProjectOutline.pdf)
